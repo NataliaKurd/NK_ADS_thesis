@@ -8,6 +8,3 @@ This repository contains the code and data associated with my thesis on evaluati
 2. **data_preparation.ipynb**: Preparation of the data for labeling in Label Studio and train & test split function.
 3. **ner_LUKE_spaCy.ipynb**: Comparison of the LUKE and spaCy models for the NER task (including fine-tuning of the models).
 4. **re_LUKE_REBEL.ipynb**: Fine-tuning and comparison of LUKE and REBEL models for RE.
-5. **models/**: Directory containing trained models and configurations.
-6. **plots/**: Directory containing plots and visualizations generated during data exploration.
-7. **results/**: Directory containing results from experiments, including performance metrics and evaluation reports.
