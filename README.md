@@ -8,3 +8,4 @@ This repository contains the code associated with my thesis on evaluating a tran
 2. **data_preparation.ipynb**: Preparation of the data for labeling in Label Studio and train & test split function.
 3. **ner_LUKE_spaCy.ipynb**: Comparison of the LUKE and spaCy models for the NER task (including fine-tuning of the models).
 4. **re_LUKE_REBEL.ipynb**: Fine-tuning and comparison of LUKE and REBEL models for RE.
+5. **LUKE_pipeline.ipynb**: LUKE pipeline for relation extraction.
