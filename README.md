@@ -1,6 +1,6 @@
 # Thesis Repository
 
-This repository contains the code and data associated with my thesis on evaluating a transformer-based model for information extraction tasks, specifically focusing on Named Entity Recognition (NER) and Relation Extraction (RE). The study was conducted in collaboration with Knights Advanced Analytics.
+This repository contains the code associated with my thesis on evaluating a transformer-based model for information extraction tasks, specifically focusing on Named Entity Recognition (NER) and Relation Extraction (RE).
 
 ## Repository Structure
 
