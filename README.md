@@ -12,5 +12,5 @@ This repository contains the code associated with my thesis on evaluating a tran
 
 ## References
 
-[1] I. Yamada, A. Asai, H. Shindo, H. Takeda, and Y. Matsumoto, “Luke: Deep con- textualized entity representations with entity-aware self-attention,” arXiv preprint arXiv:2010.01057, 2020.
+[1] I. Yamada, A. Asai, H. Shindo, H. Takeda, and Y. Matsumoto, “Luke: Deep con- textualized entity representations with entity-aware self-attention,” arXiv preprint arXiv:2010.01057, 2020.  
 [2] P.-L. H. Cabot and R. Navigli, “Rebel: Relation extraction by end-to-end language generation,” in Findings of the Association for Computational Linguistics: EMNLP 2021, 2021, pp. 2370–2381.
